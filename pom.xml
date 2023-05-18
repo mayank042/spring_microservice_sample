@@ -9,6 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
+    <packaging>pom</packaging>
     <groupId>com.sample</groupId>
     <artifactId>spring_micro_services</artifactId>
     <version>0.0.1-SNAPSHOT</version>

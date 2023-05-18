@@ -19,6 +19,7 @@
         <module>discovery_service</module>
         <module>gateway_service</module>
         <module>user_service</module>
+        <module>auth_service</module>
     </modules>
 
 </project>
